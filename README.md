@@ -101,7 +101,7 @@ Website:
 https://fengshuibedroom.info/
 
 Privacy Policy:
-https://fengshuibedroom.info/privacy
+https://fengshuibedroom.info/privacy/
 
 Contact:
 info@fengshuibedroom.info
