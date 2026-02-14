@@ -6,7 +6,7 @@ Main Website:
 https://fengshuibedroom.info/
 
 Quick Check Tool:
-https://fengshuibedroom.info/bedroom-quick-check
+https://fengshuibedroom.info/bedroom-quick-check/
 
 
 ---
@@ -33,7 +33,7 @@ This project provides practical, science-supported feng shui bedroom recommendat
 The interactive Quick Check tool analyzes your bedroom layout and provides ranked recommendations based on impact.
 
 Try it here:
-https://fengshuibedroom.info/bedroom-quick-check
+https://fengshuibedroom.info/bedroom-quick-check/
 
 Features:
 
